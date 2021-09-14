@@ -1,0 +1,1 @@
+cxfreeze home/timetracker/TTApp.py --base-name=Win32GUI --icon=icon_time_tracker.ico
